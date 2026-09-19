@@ -1,5 +1,7 @@
 # Transformer from Scratch (PyTorch)
- 
+
+<img width="1033" height="1522" alt="Transformers Attention is All you need" src="https://github.com/user-attachments/assets/cbe1561c-d136-47e8-8ee0-f70390540873" />
+
 A complete implementation of the Transformer architecture from scratch using PyTorch. This project aims to help researchers, students, and enthusiasts understand the inner workings of the Transformer model without relying on high-level abstractions from libraries like HuggingFace or Fairseq.
  
 ## Features
